@@ -438,6 +438,7 @@ const PrayPage = () => {
             marginTop: "20px",
             display: "flex",
             flexWrap: "wrap",
+            marginBottom: "20px",
           }}
         >
           <Preyer
