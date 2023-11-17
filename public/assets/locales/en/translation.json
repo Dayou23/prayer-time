@@ -1,0 +1,12 @@
+{
+  "t_Country":"Country",
+  "t_city":"City",
+  "t_clock":"Time",
+  "t_afternoon_prayer":"The time remaining for the {{nextPrayeName}} prayer",
+  "t_prayer":"Prayer",
+  "t_mode":"Mode",
+  "app_title": "Prayer Timings",
+  "language": "Language",
+  "welcome_message": "Welcome",
+  "days_since_release": "it's been {{number_of_days}} days since this video was released"
+}

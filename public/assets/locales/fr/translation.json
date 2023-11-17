@@ -1,0 +1,12 @@
+{
+  "t_Country":"Pays",
+  "t_city":"Ville",
+  "t_clock":"Temps",
+  "t_afternoon_prayer":"Le temps restant pour la prière de l'{{nextPrayeName}}",
+  "t_prayer":"Prière",
+  "t_mode":"Mode",
+  "app_title": "horaires de la prière",
+  "language": "Langue",
+  "welcome_message": "Bienvenue",
+  "days_since_release": "ça fait {{number_of_days}} jours depuis la sortie de cette vidéo"
+}

@@ -1,0 +1,13 @@
+{
+  "t_Country":"البلد",
+  "t_city":"المدينة",
+  "t_clock":"الوقت",
+  "t_afternoon_prayer":"الوقت المتبقي علي صلاة {{nextPrayeName}}",
+  "t_nameCountry": "الجزائر",
+  "t_prayer":"صلاة",
+  "t_mode":"الوضع",
+  "app_title": "مواقيت الصلاة",
+  "language": "اللغة",
+  "welcome_message": "اهلا بكم",
+  "days_since_release": "لقد مرت {{number_of_days}} أيام على إصدار هذا الفيديو"
+}
